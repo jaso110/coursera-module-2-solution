@@ -9,6 +9,12 @@ body {
   font-size: 100%;
 }
 
+h1 {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
 h2 {
   position: absolute;
   top: 0px;
@@ -19,12 +25,6 @@ h2 {
   height: 35px;
   border: 1px solid black;
   text-align: center;
-}
-
-h1 {
-  text-align: center;
-  margin-top: 5%;
-  margin-bottom: 5%;
 }
 
 .chicken {
